@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083d08ba5a485624f83511ef14c2904e, type: 3}
+  m_Name: BuildingObject17
+  m_EditorClassIdentifier: 
+  nameString: BuildingObject17
+  prefab: {fileID: 1265260913002080652, guid: 2d19e3131f2feaa41a2f1699e68b71c7, type: 3}
+  visual: {fileID: 1265260913002080652, guid: 84be614f0f300724fb3685abeb7e644d, type: 3}
+  ToPlace: 030000000300000003000000
+  ToRemoveX: 00000000010000000200000002000000
+  ToRemoveY: 02000000000000000000000001000000
